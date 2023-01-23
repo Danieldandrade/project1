@@ -4,5 +4,6 @@ if (numero < 8){
 }
 else {
     document.write('nada ok')
-
 }
+alert('erro ao somar')//caixa de msg
+
